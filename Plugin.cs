@@ -37,7 +37,7 @@ namespace UnUltrasYourKill
 			
 			// Darwin is uh, special
     		if (Application.platform == RuntimePlatform.OSXPlayer) {
-       			path += "/../../";
+       			path += "/../../../";
    			}
    			else {
       			path += "/../";
