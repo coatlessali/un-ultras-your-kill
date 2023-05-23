@@ -1,4 +1,3 @@
-
 # You Know what? Fuck you. \*Un ULTRAs Your KILL\*
 Deletes your save file and exits upon death.
 
@@ -17,7 +16,7 @@ Remove `uuyk.dll` from your BepInEx plugins directory.
 
 ## Building
 
-Note: I don't use Visual Studio, so I have no clue how to compile this on Windows, though using `msbuild` should be possible. As for MacOS, the file structure is different, but by editing the .csproj file to have correct file names, you should be able to build it with `msbuild`, just like Linux, assuming you have Mono installed.\
+Note: I don't use Visual Studio, so I have no clue how to compile this on Windows, though using `msbuild` should be possible. As for MacOS, the file structure is different, but by editing the .csproj file to have correct file names, you should be able to build it with `msbuild`, just like Linux, assuming you have Mono installed.
 
 ### Dependencies
 
